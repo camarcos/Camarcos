@@ -34,9 +34,7 @@
 | **↹ Push_swap** | ![84](https://img.shields.io/badge/125-2ea44f) |
 | **🧬 Pipex** | ![100](https://img.shields.io/badge/125-2ea44f) |
 | **🕹️ Fract-ol** | ![120](https://img.shields.io/badge/125-2ea44f) |
-| **🐚 Minishell** | ![-](https://img.shields.io/badge/125-2ea44f) |
-
-
+| **🐚 Minishell** | ![--](https://img.shields.io/badge/125-2ea44f) |
 
 ---
 
