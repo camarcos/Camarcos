@@ -42,17 +42,6 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/camarcos?1337Badge=off&UM6P=off" alt="camarcos's 42 stats" /></a>
 </div>
 
-
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <a href="https://github.com/camarcos">
-    <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&include_all_commits=true&theme=react&bg_color=0D1117&title_color=fff&icon_color=79ff97&hide_border=true" height="192" width="45%"/>
-  </a>
-</div>
-
 ---
 
 ### 📂 Featured Projects
@@ -62,6 +51,17 @@
   🔢 Push_swap - Sorting algorithm challenge.<br>
   📜 Pipex - Handling Unix pipes and processes.<br>
 </div>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <a href="https://github.com/camarcos">
+    <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=camarcos&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=000000&title_color=ff69b4&icon_color=ff69b4&hide_border=true" height="192" width="45%"/>
+  </a>
+</div>
+
+
 
 ---
 
