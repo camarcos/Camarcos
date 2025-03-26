@@ -38,10 +38,10 @@
 
 ### 📂 Featured Projects
 <div align="center">
-  🚧 **Minishell** - A small Unix shell implementation.<br>
-  🎨 **Fract-ol** - Exploring fractals in C.<br>
-  🔢 **Push_swap** - Sorting algorithm challenge.<br>
-  📜 **Pipex** - Handling Unix pipes and processes.<br>
+  🚧 Minishell - A small Unix shell implementation.<br>
+  🎨 Fract-ol - Exploring fractals in C.<br>
+  🔢 Push_swap - Sorting algorithm challenge.<br>
+  📜 Pipex - Handling Unix pipes and processes.<br>
 </div>
 
 ---
