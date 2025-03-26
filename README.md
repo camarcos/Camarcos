@@ -9,9 +9,9 @@
 
 💡 Passionate about programming, problem-solving, and continuous learning.<br>
 🎓 Currently studying software development at 42.<br>
-🚀 Working on projects like <b>minishell, fract-ol, push_swap, and pipex</b>.<br>
+🚀 Working on projects like minishell, fract-ol, push_swap, and pipex.<br>
 📫 How to reach me: carolmarcosc@gmail.com<br>
-💖 Enthusiastic about coding, teamwork, and innovation.
+💖 Enthusiastic about coding, teamwork, and innovation.<br>
 
 </div>
 
