@@ -24,9 +24,9 @@
 
 ---
 
-### 🛠️ Technologies & Tools
-//<div align="center">
-| 💻 Project | 💯 Score |
+### 💻 Project
+<div align="center">
+| Name | Score |
 |:------:|:------------------:|
 | **📚 Libft** | [![125](https://img.shields.io/badge/125-2ea44f)] |
 | **✍🏼 Ft_printf** | [![100](https://img.shields.io/badge/100-2ea44f)] |
@@ -35,7 +35,7 @@
 | **↹ Push_swap** | ![84](https://img.shields.io/badge/125-2ea44f) |
 | **🧬 Pipex** | ![100](https://img.shields.io/badge/125-2ea44f) |
 | **🕹️ Fract-ol** | [![120](https://img.shields.io/badge/125-2ea44f)] |
-//</div>
+</div>
 
 
 ---
