@@ -39,10 +39,10 @@
 | **🐚 Minishell**    | ![--](https://img.shields.io/badge/---grey) |
 
 ### 🏆 42 Stats
-<a href="https://github.com/oakoudad/badge42">
-  <img src="[![<camarcos>'s 42 stats](https://badge.mediaplus.ma/<darkgray>/<camarcos>)](https://github.com/oakoudad/badge42)" alt="camarcos's 42 stats" />
-</a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/camarcos?1337Badge=off&UM6P=off" alt="camarcos's 42 stats" /></a>
 </div>
+
+
 
 ---
 
