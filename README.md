@@ -7,11 +7,12 @@
 
 <div align="center">
 
-💡 Passionate about programming, problem-solving, and continuous learning.  
-🎓 Currently studying software development at 42.
-🚀 Working on projects like **minishell, fract-ol, push_swap, and pipex**.
-📫 How to reach me: carolmarcosc@gmail.com
-💖 Enthusiastic about coding, teamwork and innovation.
+💡 Passionate about programming, problem-solving, and continuous learning.<br>
+🎓 Currently studying software development at 42.<br>
+🚀 Working on projects like <b>minishell, fract-ol, push_swap, and pipex</b>.<br>
+📫 How to reach me: carolmarcosc@gmail.com<br>
+💖 Enthusiastic about coding, teamwork, and innovation.
+
 </div>
 
 ---
