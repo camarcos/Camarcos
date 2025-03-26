@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h1 align="center">Hi, I'm Carolina! </h1>
+  <h1 align="center">I'm Carolina! </h1>
 </div>
 
 <div align="center">
