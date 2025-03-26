@@ -48,6 +48,6 @@
 
 ### 📌 Connect with me
 <div align="center">
-  <a href="https://www.linkedin.com/in/carolina-marcos-cárdaba/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="200"/></a>
+  <a href="https://www.linkedin.com/in/carolina-marcos-cárdaba/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="150"/></a>
 </div>
 
