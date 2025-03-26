@@ -38,17 +38,12 @@
 | **🕹️ Fract-ol**     | ![120](https://img.shields.io/badge/120-2ea44f) |
 | **🐚 Minishell**    | ![--](https://img.shields.io/badge/---grey) |
 
----
-
 ### 🏆 42 Stats
-
 <a href="https://github.com/oakoudad/badge42">
-  <img src="https://badge.mediaplus.ma/darkblue/mmendiol?1337Badge=off&UM6P=off" alt="mmendiol's 42 stats" />
+  <img src="https://badge.mediaplus.ma/darkblue/mmendiol?1337Badge=off&UM6P=off" alt="camarcos's 42 stats" />
 </a>
-
 </div>
 
-centrar y arreglar link
 ---
 
 ### 📊 GitHub Stats
