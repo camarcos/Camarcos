@@ -11,7 +11,7 @@
 🎓 Currently studying software development at 42.  
 🚀 Working on projects like **minishell, fract-ol, push_swap, and pipex**.  
 📫 How to reach me: [carolmarcosc@gmail.com]  
-💖 Love coding, teamwork, and, of course, **cheese and Fortnite**! 🎮🧀  
+💖 Enthusiastic about coding, teamwork and innovation.
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ### 🛠️ Technologies & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,bash,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,bash,github,vscode,linux" />
 </div>
 
 ---
@@ -48,6 +48,6 @@
 
 ### 📌 Connect with me
 <div align="center">
-  <a href="hhttps://www.linkedin.com/in/carolina-marcos-cárdaba/" /></a>
+  <a href="hhttps://www.linkedin.com/in/carolina-marcos-cárdaba/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
