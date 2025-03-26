@@ -24,6 +24,12 @@
 
 ---
 
+<div align="center">
+
+  <table style="border-collapse: collapse; border: none;">
+
+<tr>
+<td style="border: none;">
 ### 💻 Project
 | Name | Score |
 |:------:|:------------------:|
@@ -35,7 +41,17 @@
 | **🧬 Pipex** | ![100](https://img.shields.io/badge/125-2ea44f) |
 | **🕹️ Fract-ol** | ![120](https://img.shields.io/badge/125-2ea44f) |
 | **🐚 Minishell** | ![--](https://img.shields.io/badge/125-2ea44f) |
+</td>
 
+<td style="vertical-align: top; padding-left: 20px;">
+<a href="https://github.com/oakoudad/badge42">
+  <img src="https://badge.mediaplus.ma/darkblue/mmendiol?1337Badge=off&UM6P=off" alt="mmendiol's 42 stats" />
+</a>
+</td>
+</tr>
+  </table>
+</div>
+centrar y arreglar link
 ---
 
 ### 📊 GitHub Stats
