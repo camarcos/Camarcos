@@ -1,15 +1,15 @@
-## Hi there 👋
+## Hi there 👋🏼
 
 
 <div align="center">
-  <h1 align="center">Hi, I'm Carolina! 👋🏼</h1>
+  <h1 align="center">Hi, I'm Carolina! </h1>
 </div>
 
 <div align="center">
 
 💡 Passionate about programming, problem-solving, and continuous learning.<br>
-🎓 Currently studying software development at 42.<br>
-🚀 Working on projects like minishell, fract-ol, push_swap, and pipex.<br>
+🎓 Currently studying software development at 42 Madrid.<br>
+🚀 Working on projects like minishell, fract-ol, push_swap and pipex.<br>
 📫 How to reach me: carolmarcosc@gmail.com<br>
 💖 Enthusiastic about coding, teamwork, and innovation.<br>
 
@@ -38,10 +38,10 @@
 
 ### 📂 Featured Projects
 <div align="center">
-  🚧 **Minishell** - A small Unix shell implementation.  
-  🎨 **Fract-ol** - Exploring fractals in C.  
-  🔢 **Push_swap** - Sorting algorithm challenge.  
-  📜 **Pipex** - Handling Unix pipes and processes.  
+  🚧 **Minishell** - A small Unix shell implementation.<br>
+  🎨 **Fract-ol** - Exploring fractals in C.<br>
+  🔢 **Push_swap** - Sorting algorithm challenge.<br>
+  📜 **Pipex** - Handling Unix pipes and processes.<br>
 </div>
 
 ---
