@@ -2,17 +2,16 @@
 
 
 <div align="center">
-  <h1 align="center">Hi, I'm [Carolina]! 👋🏼</h1>
+  <h1 align="center">Hi, I'm Carolina! 👋🏼</h1>
 </div>
 
 <div align="center">
 
 💡 Passionate about programming, problem-solving, and continuous learning.  
-🎓 Currently studying software development at 42.  
-🚀 Working on projects like **minishell, fract-ol, push_swap, and pipex**.  
-📫 How to reach me: [carolmarcosc@gmail.com]  
+🎓 Currently studying software development at 42.
+🚀 Working on projects like **minishell, fract-ol, push_swap, and pipex**.
+📫 How to reach me: carolmarcosc@gmail.com
 💖 Enthusiastic about coding, teamwork and innovation.
-
 </div>
 
 ---
@@ -48,6 +47,6 @@
 
 ### 📌 Connect with me
 <div align="center">
-  <a href="hhttps://www.linkedin.com/in/carolina-marcos-cárdaba/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="hhttps://www.linkedin.com/in/carolina-marcos-cárdaba/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="40"/></a>
 </div>
 
