@@ -11,7 +11,6 @@
 🚀 Working on projects like minishell, fract-ol, push_swap and pipex.<br>
 📫 How to reach me: carolmarcosc@gmail.com<br>
 💖 Enthusiastic about coding, teamwork, and innovation.<br>
-
 </div>
 
 ---
@@ -39,10 +38,10 @@
 
 ### Featured Projects
 <div align="center">
-  🚧 Minishell - A small Unix shell implementation.<br>
-  🎨 Fract-ol - Exploring fractals in C.<br>
   🔢 Push_swap - Sorting algorithm challenge.<br>
   📜 Pipex - Handling Unix pipes and processes.<br>
+  🎨 Fract-ol - Exploring fractals in C.<br>
+  🚧 Minishell - A small Unix shell implementation.<br>
 </div>
 
 ---
@@ -55,6 +54,11 @@
 
 ### 📌 Connect with me
 <div align="center">
-  <a href="https://www.linkedin.com/in/carolina-marcos-cárdaba/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="150"/></a>
+  	<a href="https://www.linkedin.com/in/carolina-marcos-cárdaba/">
+		<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+	</a>
+	<a href="mailto:carolmarcosc@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge"/>
+	</a>
 </div>
 
