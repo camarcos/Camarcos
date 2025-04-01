@@ -27,14 +27,17 @@
 
 | Name             | Score |
 |:---------------:|:------:|
-| **📚 Libft**        | ![125](https://img.shields.io/badge/125-2ea44f) |
-| **✍🏼 Ft_printf**    | ![100](https://img.shields.io/badge/100-2ea44f) |
-| **🤖 Born2beroot**  | ![120](https://img.shields.io/badge/120-2ea44f) |
-| **⏩ Get_next_line** | ![112](https://img.shields.io/badge/112-2ea44f) |
-| **↹ Push_swap**     | ![84](https://img.shields.io/badge/84-2ea44f) |
-| **🧬 Pipex**        | ![100](https://img.shields.io/badge/100-2ea44f) |
-| **🕹️ Fract-ol**     | ![120](https://img.shields.io/badge/120-2ea44f) |
-| **🐚 Minishell**    | ![--](https://img.shields.io/badge/---grey) |
+| **📚 Libft**        | [![125](https://img.shields.io/badge/125-2ea44f)](https://github.com/camarcos/Libft) |
+| **✍🏼 Ft_printf**    | [![100](https://img.shields.io/badge/100-2ea44f)](https://github.com/camarcos/Printf) |
+| **🤖 Born2beroot**  | [![120](https://img.shields.io/badge/120-2ea44f)](https://github.com/camarcos/Born2beroot) |
+| **⏩ Get_next_line** | [![112](https://img.shields.io/badge/112-2ea44f)](https://github.com/camarcos/GetNextLine) |
+| **↹ Push_swap**     | [![84](https://img.shields.io/badge/84-2ea44f)](https://github.com/camarcos/Push_swap) |
+| **🧬 Pipex**        | [![100](https://img.shields.io/badge/100-2ea44f)](https://github.com/camarcos/Pipex) |
+| **🕹️ Fract-ol**     | [![120](https://img.shields.io/badge/120-2ea44f)](https://github.com/camarcos/Fract-ol) |
+| **🐚 Minishell**    | [![--](https://img.shields.io/badge/---grey)](https://github.com/madel-04/MiniShell) |
+
+</div>
+
 
 ### Featured Projects
 <div align="center">
