@@ -46,7 +46,7 @@
 | **↹ Push_swap**     | [![84](https://img.shields.io/badge/84-2ea44f)](https://github.com/camarcos/Push_swap) |
 | **🧬 Pipex**        | [![100](https://img.shields.io/badge/100-2ea44f)](https://github.com/camarcos/Pipex) |
 | **🕹️ Fract-ol**     | [![120](https://img.shields.io/badge/120-2ea44f)](https://github.com/camarcos/Fract-ol) |
-| **🐚 Minishell**    | [![--](https://img.shields.io/badge/---grey)](https://github.com/madel-04/MiniShell) |
+| **🐚 Minishell**    | [![101](https://img.shields.io/badge/---grey)](https://github.com/madel-04/MiniShell) |
 
 </div>
 
