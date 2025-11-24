@@ -45,7 +45,7 @@
 | **⏩ Get_next_line** | [![112](https://img.shields.io/badge/112-2ea44f)](https://github.com/camarcos/GetNextLine) |
 | **↹ Push_swap**     | [![84](https://img.shields.io/badge/84-2ea44f)](https://github.com/camarcos/Push_swap) |
 | **🧬 Pipex**        | [![100](https://img.shields.io/badge/100-2ea44f)](https://github.com/camarcos/Pipex) |
-| **🕹️ Fract-ol**     | [![120](https://img.shields.io/badge/120-2ea44f)](https://github.com/camarcos/Fract-ol) |
+| **🎨 Fract-ol**     | [![120](https://img.shields.io/badge/120-2ea44f)](https://github.com/camarcos/Fract-ol) |
 | **🐚 Minishell**    | [![101](https://img.shields.io/badge/101-2ea44f)](https://github.com/camarcos/Minishell) |
 | **🧙🏼‍♂️ Philosophers**    | [![100](https://img.shields.io/badge/100-2ea44f)](https://github.com/camarcos/Philosophers) |
 
@@ -54,10 +54,9 @@
 
 ### Featured Projects
 <div align="center">
-  🔢 Push_swap - Sorting algorithm challenge.<br>
-  📜 Pipex - Handling Unix pipes and processes.<br>
-  🎨 Fract-ol - Exploring fractals in C.<br>
-  🚧 Minishell - A small Unix shell implementation.<br>
+🌐 NetPractice – Mastering IP networking & subnetting.<br>
+🧱 Cub3D – Building a 3D raycasting engine inspired by Wolfenstein 3D.<br>
+💻 CPP Modules – Learning Object-Oriented Programming & C++ fundamentals.<br>
 </div>
 
 ---
