@@ -39,7 +39,7 @@
 
 | Name             | Score |
 |:---------------:|:------:|
-| **📚 Libft**        | [![125](https://img.shields.io/badge/125-2ea44f)](https://github.com/camarcos/Libft) |
+| **📚 Libft**        | [![125](https://img.shields.io/badge/125-2ea44f)](https://github.com/camarcos/Lift) |
 | **✍🏼 Ft_printf**    | [![100](https://img.shields.io/badge/100-2ea44f)](https://github.com/camarcos/Printf) |
 | **🤖 Born2beroot**  | [![120](https://img.shields.io/badge/120-2ea44f)](https://github.com/camarcos/Born2beroot) |
 | **⏩ Get_next_line** | [![112](https://img.shields.io/badge/112-2ea44f)](https://github.com/camarcos/GetNextLine) |
