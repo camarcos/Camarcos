@@ -8,7 +8,7 @@
 
 💡 Passionate about programming, problem-solving, and continuous learning.<br>
 🎓 Currently studying software development at 42 Madrid.<br>
-🚀 Working on projects like minishell, fract-ol, push_swap and pipex.<br>
+🚀 Working on projects like Cub3d, CPPs and NetPractice.<br>
 📫 How to reach me: carolmarcosc@gmail.com<br>
 💖 Enthusiastic about coding, teamwork, and innovation.<br>
 </div>
@@ -48,6 +48,9 @@
 | **🎨 Fract-ol**     | [![120](https://img.shields.io/badge/120-2ea44f)](https://github.com/camarcos/Fract-ol) |
 | **🐚 Minishell**    | [![101](https://img.shields.io/badge/101-2ea44f)](https://github.com/camarcos/Minishell) |
 | **🧙🏼‍♂️ Philosophers**    | [![100](https://img.shields.io/badge/100-2ea44f)](https://github.com/camarcos/Philosophers) |
+| **🧱 Cub3D**    | [![--](https://img.shields.io/badge/100-2ea44f)](https://github.com/camarcos/Cub3d) |
+| **💻 CPP Modules**    | [![--](https://img.shields.io/badge/100-2ea44f)](https://github.com/camarcos/CPPs) |
+| **🌐 NetPractice**    | [![--](https://img.shields.io/badge/100-2ea44f)](--) |
 
 </div>
 
