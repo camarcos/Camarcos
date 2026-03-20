@@ -48,9 +48,9 @@
 | **🎨 Fract-ol**     | [![120](https://img.shields.io/badge/120-2ea44f)](https://github.com/camarcos/Fract-ol) |
 | **🐚 Minishell**    | [![101](https://img.shields.io/badge/101-2ea44f)](https://github.com/camarcos/Minishell) |
 | **🧙🏼‍♂️ Philosophers**    | [![100](https://img.shields.io/badge/100-2ea44f)](https://github.com/camarcos/Philosophers) |
-| **🧱 Cub3D**    | [![--](https://img.shields.io/badge/100-2ea44f)](https://github.com/camarcos/Cub3d) |
-| **💻 CPP Modules**    | [![--](https://img.shields.io/badge/100-2ea44f)](https://github.com/camarcos/CPPs) |
-| **🌐 NetPractice**    | [![--](https://img.shields.io/badge/100-2ea44f)](--) |
+| **🧱 Cub3D**    | [![--](https://img.shields.io/badge/-2ea44f)](https://github.com/camarcos/Cub3d) |
+| **💻 CPP Modules**    | [![--](https://img.shields.io/badge/-2ea44f)](https://github.com/camarcos/CPPs) |
+| **🌐 NetPractice**    | [![--](https://img.shields.io/badge/-2ea44f)](--) |
 
 </div>
 
