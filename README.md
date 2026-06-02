@@ -8,7 +8,7 @@
 
 💡 Passionate about programming, problem-solving, and continuous learning.<br>
 🎓 Currently studying software development at 42 Madrid.<br>
-🚀 Working on projects like Cub3d, CPPs and NetPractice.<br>
+🚀 Working on projects like CPPs, Irc and Inception.<br>
 📫 How to reach me: carolmarcosc@gmail.com<br>
 💖 Enthusiastic about coding, teamwork, and innovation.<br>
 </div>
