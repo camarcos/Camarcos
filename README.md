@@ -51,15 +51,17 @@
 | **🧱 Cub3D**    | [![110](https://img.shields.io/badge/110-2ea44f)](https://github.com/camarcos/Cub3d) |
 | **🌐 NetPractice**    | [![100](https://img.shields.io/badge/100-2ea44f)](https://github.com/camarcos/NetPractice) |
 | **💻 CPP Modules**    | [![--](https://img.shields.io/badge/-2ea44f)](https://github.com/camarcos/CPPs) |
+| **🐳 Incepton**    | [![--](https://img.shields.io/badge/-2ea44f)](--) |
+| **💬 Irc**    | [![--](https://img.shields.io/badge/-2ea44f)](--) |
 
 </div>
 
 
 ### Featured Projects
 <div align="center">
-🌐 NetPractice – Mastering IP networking & subnetting.<br>
-🧱 Cub3D – Building a 3D raycasting engine inspired by Wolfenstein 3D.<br>
 💻 CPP Modules – Learning Object-Oriented Programming & C++ fundamentals.<br>
+🐳 Incepton - Docker-based infrastructure deployment with multiple interconnected services.<br>
+💬 Irc - Server implementation in C++ with real-time client communication.
 </div>
 
 ---
