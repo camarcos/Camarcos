@@ -47,10 +47,10 @@
 | **🧬 Pipex**        | [![100](https://img.shields.io/badge/100-2ea44f)](https://github.com/camarcos/Pipex) |
 | **🎨 Fract-ol**     | [![120](https://img.shields.io/badge/120-2ea44f)](https://github.com/camarcos/Fract-ol) |
 | **🐚 Minishell**    | [![101](https://img.shields.io/badge/101-2ea44f)](https://github.com/camarcos/Minishell) |
-| **🧙🏼‍♂️ Philosophers**    | [![100](https://img.shields.io/badge/100-2ea44f)](https://github.com/camarcos/Philosophers) |
-| **🧱 Cub3D**    | [![--](https://img.shields.io/badge/-2ea44f)](https://github.com/camarcos/Cub3d) |
+| **🧙🏼‍♂️ Philosophers**    | [![100](https://img.shields.io/badge/100-2ea44f)](https://github.com/camarcos/Philosophers) 
+| **🧱 Cub3D**    | [![110](https://img.shields.io/badge/110-2ea44f)](https://github.com/camarcos/Cub3d) |
+| **🌐 NetPractice**    | [![100](https://img.shields.io/badge/100-2ea44f)](https://github.com/camarcos/NetPractice) |
 | **💻 CPP Modules**    | [![--](https://img.shields.io/badge/-2ea44f)](https://github.com/camarcos/CPPs) |
-| **🌐 NetPractice**    | [![--](https://img.shields.io/badge/-2ea44f)](--) |
 
 </div>
 
